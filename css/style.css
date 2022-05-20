@@ -1,0 +1,42 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+/* .navbar-brand{
+    color: white;
+    size: 3px;
+
+} */
+
+
+/* Nav "Comprar tickets" */
+.nav-link{
+    color: green;
+}
+
+/* footer.row{
+    color: white;
+} */
+
+/* div, ul.justify-content-center{
+        padding: 25px;
+        border: 5px black solid;
+        background: -webkit-linear-gradient(left, #154360, #1F618D);
+        color: white;
+    } */
+
+/* #subrayar_punteado{
+        border-bottom: 3px dotted black;
+        text-decoration:none;
+        color: black;
+}
+
+.container.fluid, button{
+    border-radius: 20%;
+} */
